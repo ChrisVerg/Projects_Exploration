@@ -1,2 +1,2 @@
-# Project Exploaration
+# Project Exploration
 Practice projects using Kaggle data.
